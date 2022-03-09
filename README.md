@@ -1,6 +1,13 @@
 # react-game-app
 An app made with React containing multiple games
 
+
+# TODO list
+1. Finish homepage
+2. Add a side nav button which will allow navigation to all the other games and homepage from any link
+3. Update CSS of homepage
+4. Move in tictactoe game from other repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
