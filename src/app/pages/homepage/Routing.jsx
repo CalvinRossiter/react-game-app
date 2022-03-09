@@ -3,6 +3,7 @@ import { Switch, Route, BrowserRouter, Redirect } from 'react-router-dom';
 
 import HomePage from './Homepage';
 import TicTacToe from '../TicTacToe/TicTacToe';
+import PageNotFound from '../PageNotFound';
 
 const Routes = () => {
     return(
@@ -13,6 +14,7 @@ const Routes = () => {
                     <HomePage />
                 </Route>
                 <Route path='/TicTacToe' component={TicTacToe} />
+                <Route path='*' component={PageNotFound} />
             </Switch>
         </BrowserRouter>
     );
