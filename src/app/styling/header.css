@@ -1,0 +1,18 @@
+.headerTitleContainer{
+    border: 5px solid;
+    border-radius: 35px;
+    margin: 5px;
+}
+
+#headerTitle{
+    margin-bottom: -20px;
+}
+
+#headerSubtitle{
+    padding-bottom: 10px;
+}
+
+.appName{
+    color: black;
+    text-decoration: none;
+}
