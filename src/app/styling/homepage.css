@@ -1,0 +1,17 @@
+.homeColumns{
+    width: 925px;
+    float: left;
+    margin: 10px;
+}
+
+#gamesColHeader{
+    font-size: 50px;
+}
+
+#appsColHeader{
+    font-size: 50px;
+}
+
+#ticTacToeButton{
+    size: large;
+}

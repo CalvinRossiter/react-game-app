@@ -5,7 +5,6 @@ An application made with React containing multiple games and useful apps
 1. Finish homepage
     - add CSS to homepage (Ant Design components)
         - figure out why current ant components that I'm using aren't working as they should be
-    - get the homepage to be split into two sections, games and apps
     - make list of games/apps under each section
 2. Add a side nav button or a breadcrumb which will allow navigation to all the other games and homepage from any link (cascading menu dropdown from ant)
 3. Update CSS of homepage

@@ -5,11 +5,13 @@
 }
 
 #headerTitle{
+    font-size: 75px;
     margin-bottom: -20px;
 }
 
 #headerSubtitle{
-    padding-bottom: 10px;
+    padding-bottom: 25px;
+    font-size: 20px;
 }
 
 .appName{
